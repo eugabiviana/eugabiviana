@@ -13,7 +13,7 @@ The word my friends use to describe me is versatile, because I am always reinven
 
 - 📍 From Brasília living in Campinas
 - 💻 Studying to become a Full Stack Java Junior Developer at [Generation Brazil](https://brazil.generation.org/)
-- 👩🏻‍💻Sharing my progress as a coder here. Follow me!
+- 👩🏻‍💻 Sharing my progress as a coder here. Follow me!
 
 Reach me out 👇🏼
 
