@@ -16,4 +16,5 @@ The word my friends use to describe me is versatile, because I am always reinven
 - 👩🏻‍💻Sharing my progress as a coder here. Follow me!
 
 Reach me out 👇🏼
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielaviana/)](https://www.linkedin.com/in/gabrielaviana/)
