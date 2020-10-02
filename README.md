@@ -1,6 +1,6 @@
 
 
-# Hey 👋
+# Hey 👋🏻
 
 My name is Gabriela Viana. 👩🏻‍🦱🇧🇷
 
