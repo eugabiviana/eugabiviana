@@ -12,7 +12,7 @@ The word my friends use to describe me is versatile, because I am always reinven
 ### 🎯 "Live as if you were to die tomorrow. Learn as if you were to live forever." 🧠💭
 
 - 📍 From Brasília living in Campinas
-- 💻 Studying to become a Full Stack Java Junior Developer at [Generation Brazil](https://brazil.generation.org/)
+- 💻 Studying to become a Full Stack Junior Java Developer at [Generation Brazil](https://brazil.generation.org/)
 - 👩🏻‍💻 Sharing my progress as a coder here. Follow me!
 
 Reach me out 👇🏼
