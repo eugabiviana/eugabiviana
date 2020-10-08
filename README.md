@@ -4,7 +4,7 @@
 
 My name is Gabriela Viana. 👩🏻‍🦱🇧🇷
 
-I am an Advertiser and events producer who is currently in a career transition on Generation Brazil’s Java Junior Developer Bootcamp to become a programmer. 💻
+I am an Advertiser and events producer who is currently in a career transition on Generation Brazil’s Junior Java Developer Bootcamp to become a programmer. 💻
 
 As I have been working in events since 2011, what I do best is solving problems and working under pressure. I have always defined myself as a fast learner and now, after having started the Bootcamp, I can say it with propriety.
 The word my friends use to describe me is versatile, because I am always reinventing myself. I am not afraid to face new challenges and big changes.
