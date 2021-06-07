@@ -14,7 +14,7 @@ This new chapter in my life is making my eyes shine with excitement and passion.
 
 ### 🎯 "Live as if you were to die tomorrow. Learn as if you were to live forever." 🧠💭
 
-- 📍 Currently living at Brasília from Brazil
+- 📍 Currently living in Brasília from Brazil
 - 💻 Studied to become a Full Stack Junior Java Developer at [Generation Brazil](https://brazil.generation.org/)
 - 👩🏻‍💻 Sharing my progress as a coder here. Follow me!
 
